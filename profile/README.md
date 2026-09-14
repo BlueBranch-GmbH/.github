@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlueBranch-GmbH/.github/main/profile/assets/logo-dark.png">
-  <img src="https://raw.githubusercontent.com/BlueBranch-GmbH/.github/main/profile/assets/logo-light.png" alt="BlueBranch GmbH" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlueBranch-GmbH/.github/main/profile/assets/logo-dark.png?v=2">
+  <img src="https://raw.githubusercontent.com/BlueBranch-GmbH/.github/main/profile/assets/logo-light.png?v=2" alt="BlueBranch GmbH" width="420">
 </picture>
 
 ### Apps, die im Markt Erfolg haben – von Konzept bis Launch
