@@ -49,7 +49,7 @@ Was sich sinnvoll aus Kundenprojekten herauslösen lässt, veröffentlichen wir 
 | [**chatbot**](https://github.com/BlueBranch-GmbH/chatbot-contao) | [![Packagist](https://img.shields.io/packagist/v/bluebranch/chatbot?style=flat-square&label=&color=0036ff)](https://packagist.org/packages/bluebranch/chatbot) | KI-Chatbot und KI-Suche, die ausschließlich aus den eigenen Seiteninhalten antworten – gespeist aus dem Contao-Suchindex. |
 | [**inhaltsverzeichnis**](https://github.com/BlueBranch-GmbH/contao-inhaltsverzeichnis) | [![Packagist](https://img.shields.io/packagist/v/bluebranch/inhaltsverzeichnis?style=flat-square&label=&color=0036ff)](https://packagist.org/packages/bluebranch/inhaltsverzeichnis) | Baut aus den Überschriften einer Seite ein hierarchisches Inhaltsverzeichnis mit Ankerlinks. |
 
-Daneben pflegen wir die Metadaten unserer Pakete im [Contao Package Metadata Repository](https://github.com/contao/package-metadata) mit. Fehler gefunden oder eine Idee? Issues und Pull Requests sind in allen Repositories willkommen – siehe [Beitragsleitfaden](https://github.com/BlueBranch-GmbH/.github/blob/main/CONTRIBUTING.md) und [Sicherheitsrichtlinie](https://github.com/BlueBranch-GmbH/.github/blob/main/SECURITY.md).
+Fehler gefunden oder eine Idee? Issues und Pull Requests sind in allen Repositories willkommen – siehe [Beitragsleitfaden](https://github.com/BlueBranch-GmbH/.github/blob/main/CONTRIBUTING.md) und [Sicherheitsrichtlinie](https://github.com/BlueBranch-GmbH/.github/blob/main/SECURITY.md).
 
 ## In English
 
