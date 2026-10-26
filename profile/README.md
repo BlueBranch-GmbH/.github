@@ -88,13 +88,14 @@ Diese Apps stehen unter dem [Entwicklerkonto der BlueBranch GmbH im Apple App St
 
 ## Open Source
 
-Was sich sinnvoll aus Kundenprojekten und eigenen Produkten herauslösen lässt, veröffentlichen wir hier. Die drei Contao-Erweiterungen sind MIT-lizenziert und über Composer sowie den Contao Manager installierbar. Die WordPress-Erweiterung steht unter GPL-2.0-or-later.
+Was sich sinnvoll aus Kundenprojekten und eigenen Produkten herauslösen lässt, veröffentlichen wir hier. Die drei Contao-Erweiterungen und die Chrome-Erweiterung sind MIT-lizenziert, die Contao-Pakete sind über Composer sowie den Contao Manager installierbar. Die WordPress-Erweiterung steht unter GPL-2.0-or-later.
 
 | Paket | System | Version | Worum es geht |
 |---|---|---|---|
 | [**bilder-alt**](https://github.com/BlueBranch-GmbH/bilder-alt-contao) | Contao | [![Packagist](https://img.shields.io/packagist/v/bluebranch/bilder-alt?style=flat-square&label=&color=0036ff)](https://packagist.org/packages/bluebranch/bilder-alt) | Erzeugt beim Bildupload automatisch barrierefreie, SEO-taugliche Alt-Texte und auf Wunsch Seitentitel und Meta-Beschreibungen. |
 | [**chatbot**](https://github.com/BlueBranch-GmbH/chatbot-contao) | Contao | [![Packagist](https://img.shields.io/packagist/v/bluebranch/chatbot?style=flat-square&label=&color=0036ff)](https://packagist.org/packages/bluebranch/chatbot) | KI-Chatbot und KI-Suche, die ausschließlich aus den eigenen Seiteninhalten antworten, gespeist aus dem Contao-Suchindex. |
 | [**chatbot-wordpress**](https://github.com/BlueBranch-GmbH/chatbot-wordpress) | WordPress | [![Version](https://img.shields.io/github/v/tag/BlueBranch-GmbH/chatbot-wordpress?style=flat-square&label=&color=0036ff)](https://github.com/BlueBranch-GmbH/chatbot-wordpress/tags) | Dieselbe KI-Suche für WordPress: Die Erweiterung liest Beiträge und Seiten über die XML-Sitemap ein und liefert Chat-Widget, Fragefeld und Suchantwort als Blöcke und Shortcodes. |
+| [**chrome-bfsg-check**](https://github.com/BlueBranch-GmbH/chrome-bfsg-check) | Chrome | [![Version](https://img.shields.io/github/package-json/v/BlueBranch-GmbH/chrome-bfsg-check?style=flat-square&label=&color=0036ff)](https://chromewebstore.google.com/detail/bfsg-check-by-bluebranch/jhbgabajncnbmdldlacgonlfjchieopm) | BFSG Check prüft die geöffnete Seite lokal im Browser auf Barrierefreiheit nach BFSG, EN 301 549 und WCAG 2.1 AA und gibt Performance-Hinweise. Kein Tracking, alle Prüfungen laufen im Browser. [Produktseite](https://www.bluebranch.de/bfsg-check) |
 | [**inhaltsverzeichnis**](https://github.com/BlueBranch-GmbH/contao-inhaltsverzeichnis) | Contao | [![Packagist](https://img.shields.io/packagist/v/bluebranch/inhaltsverzeichnis?style=flat-square&label=&color=0036ff)](https://packagist.org/packages/bluebranch/inhaltsverzeichnis) | Baut aus den Überschriften einer Seite ein hierarchisches Inhaltsverzeichnis mit Ankerlinks. |
 
 Beide Chatbot-Erweiterungen nutzen dieselbe Wissensbasis und dieselbe API von [chatbot.bluebranch.de](https://chatbot.bluebranch.de). Der Dienst läuft mit eigenem KI-Modell auf Servern in Deutschland, und der API-Schlüssel bleibt auf dem Webserver des Kunden.
@@ -119,7 +120,7 @@ We build native iOS and Android apps with Swift and Kotlin, cross-platform apps 
 
 Apps published under our developer account include Pepp (family allowance and chores), Unfallerfasser (digital accident reporting for KFZ-SRS GmbH), HERCULES (an employee app built with Quapler GmbH & Co KG) and DEKO 26 (event app).
 
-The repositories in this organisation are the parts of our work that generalise beyond a single client. These are three MIT-licensed Contao extensions and a GPL-licensed WordPress plugin for AI chat and AI search that answers only from a site's own content. Issues and pull requests are welcome.
+The repositories in this organisation are the parts of our work that generalise beyond a single client. These are three MIT-licensed Contao extensions, the MIT-licensed Chrome extension [BFSG Check](https://github.com/BlueBranch-GmbH/chrome-bfsg-check) for accessibility checks, and a GPL-licensed WordPress plugin for AI chat and AI search that answers only from a site's own content. Issues and pull requests are welcome.
 
 <div align="center">
 
